@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MapPieSettingsExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapPieSettingsExample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to customize the appearance of automatically generated map pie charts
 
 
